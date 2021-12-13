@@ -1,0 +1,14 @@
+C:\Users\lolo_\source\repos\ConsoleApp1\AdventOfCode2021\bin\Debug\AdventOfCode2021.exe.config
+C:\Users\lolo_\source\repos\ConsoleApp1\AdventOfCode2021\bin\Debug\AdventOfCode2021.exe
+C:\Users\lolo_\source\repos\ConsoleApp1\AdventOfCode2021\bin\Debug\AdventOfCode2021.pdb
+C:\Users\lolo_\source\repos\ConsoleApp1\AdventOfCode2021\obj\Debug\AdventOfCode2021.csproj.AssemblyReference.cache
+C:\Users\lolo_\source\repos\ConsoleApp1\AdventOfCode2021\obj\Debug\AdventOfCode2021.csproj.CoreCompileInputs.cache
+C:\Users\lolo_\source\repos\ConsoleApp1\AdventOfCode2021\obj\Debug\AdventOfCode2021.exe
+C:\Users\lolo_\source\repos\ConsoleApp1\AdventOfCode2021\obj\Debug\AdventOfCode2021.pdb
+D:\Dev\AdventOfCode2021\AdventOfCode2021\bin\Debug\AdventOfCode2021.exe.config
+D:\Dev\AdventOfCode2021\AdventOfCode2021\bin\Debug\AdventOfCode2021.exe
+D:\Dev\AdventOfCode2021\AdventOfCode2021\bin\Debug\AdventOfCode2021.pdb
+D:\Dev\AdventOfCode2021\AdventOfCode2021\obj\Debug\AdventOfCode2021.csproj.AssemblyReference.cache
+D:\Dev\AdventOfCode2021\AdventOfCode2021\obj\Debug\AdventOfCode2021.csproj.CoreCompileInputs.cache
+D:\Dev\AdventOfCode2021\AdventOfCode2021\obj\Debug\AdventOfCode2021.exe
+D:\Dev\AdventOfCode2021\AdventOfCode2021\obj\Debug\AdventOfCode2021.pdb

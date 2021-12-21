@@ -14,7 +14,8 @@ namespace AdventOfCode2021
             //var day6 = new Day6();
             //var day7 = new Day7();
             //var day8 = new Day8();
-            var day9 = new Day9();
+            //var day9 = new Day9();
+            var day10 = new Day10();
 
             Console.ReadLine();
         }
